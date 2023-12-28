@@ -1,0 +1,6 @@
+@EFMultipleMigration_HostAddress = http://localhost:5009
+
+GET {{EFMultipleMigration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
